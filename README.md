@@ -6,6 +6,6 @@ website for testing https://tokopedia.com/
 ```bash
 git clone https://github.com/wiisnuudp/www/
 
-# tools
+tools
     1. Cypress
     2. Visual Studio Code 
